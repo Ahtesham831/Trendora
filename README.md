@@ -6,8 +6,8 @@ Trendora is a premium, fully-responsive e-commerce platform built to deliver a s
 
 ## 🔗 Deployed Links
 
-* **Frontend User Portal:** [trendora-frontend-lyart.vercel.app](https://trendora-frontend-lyart.vercel.app)
-* **Admin Management Panel:** [trendora-admin-lyart.vercel.app](https://trendora-admin-lyart.vercel.app)
+* **Frontend User Portal:** [https://trendora-frontend-lyart.vercel.app/](https://trendora-frontend-lyart.vercel.app/)
+* **Admin Management Panel:** [https://trendora-admin-zeta.vercel.app/](https://trendora-admin-zeta.vercel.app/)
 
 ---
 
